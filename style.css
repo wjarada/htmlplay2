@@ -1,0 +1,19 @@
+td, th{
+    border: solid;
+    text-align: center;
+    vertical-align: middle;
+}
+.table{}
+#mytable {
+    max-width: 500px; 
+}
+table{
+    border: solid;
+  max-width: 200px; 
+   
+}
+
+.bcolor{
+    background: yellow;
+    text-align: right;
+}
